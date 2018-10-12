@@ -15,7 +15,7 @@ snippets used in text fields on web pages
 #### Use Scenarios: 
 ##### CREATE, USE
 
-1. select text input element on preffered web page, to use snippets in for.  
+1. select text input element on preferred web page, to use snippets in for.  
 selection is made by super-selector extention. 
 - start select action from a popup menu
 - select text input element 
