@@ -1,4 +1,4 @@
-## Inter-extensions API, documentation
+## Inter-extension API, documentation
 (snipintext, super-selector)
 
 ---
