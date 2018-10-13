@@ -23,7 +23,7 @@ selection is made by super-selector extention.
 Snipintext extension will receive the message  
 Content of an input element gets constantly monitored by injected script(by snipintext) after an element's selected 
 
-2. Open creation menu, on the specified page, using keyboard shortcut
+2. Open creation menu, on a specified page, using keyboard shortcut
 selected element temporarely turnsout into a console dialog
 - dialog
 - creation, storage
