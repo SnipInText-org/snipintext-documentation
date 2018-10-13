@@ -34,3 +34,7 @@ input element gets back into a normal state.
 ##### MANAGE: add, update, group, regroup, import/export, delete
 
 ---
+
+### API 
+
+![api image](super-selector_documentation.png)
