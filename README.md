@@ -19,9 +19,9 @@ snippets used in text fields on web pages
 selection is made by super-selector extention. 
 - start select action from a popup menu
 - select text input element 
-- it will broadcast data through chrome.message API: web page address and an element's path 
-Snipintext extension will receive the message
-Content of an input element is gets constantly monitored by injected script(by snipintext) after an element's selected
+- it will broadcast data through chrome.message API: web page address and an element's path  
+Snipintext extension will receive the message 
+Content of an input element is gets constantly monitored by injected script(by snipintext) after an element's selected 
 
 2. Open creation menu, on the specified page, using keyboard shortcut
 selected element temporarely turnsout into a console dialog
