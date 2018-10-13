@@ -38,3 +38,6 @@ input element gets back into a normal state.
 ### API 
 
 ![api image](super-selector_documentation.png)
+
+TODO: 
+- log collection with error stack
