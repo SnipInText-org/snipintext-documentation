@@ -31,6 +31,8 @@ input element gets back into a normal state.
 
 3. Enter created snippet key into an input element, it will be replaced with a specified replace text. 
 
+##### STORE:
+
 ##### MANAGE: add, update, group, regroup, import/export, delete
 
 ---
